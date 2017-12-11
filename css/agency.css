@@ -41,7 +41,7 @@ section {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0; } }
+    padding: 120px 0; } }
 
 ::-moz-selection {
   background: #fed136;
@@ -92,7 +92,7 @@ body {
 
 @media (min-width: 992px) {
   #mainNav {
-    padding: 25px 0;
+    padding: 5px 0;
     -webkit-transition: padding .3s;
     -moz-transition: padding .3s;
     transition: padding .3s;
