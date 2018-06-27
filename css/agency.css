@@ -58,7 +58,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #fed136; }
+  -webkit-tap-highlight-color: #ffffff; }
 
 #mainNav {
   background-color: #afafaf; }
@@ -602,7 +602,7 @@ ul.social-buttons {
   fieldset[disabled] .btn-xl:focus,
   fieldset[disabled] .btn-xl.focus {
     border-color: #fed136;
-    background-color: #fed136; }
+    background-color: #ffffff; }
   .btn-xl .badge {
     color: #fed136;
     background-color: white; }
